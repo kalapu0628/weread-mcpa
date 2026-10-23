@@ -90,3 +90,4 @@ console.log("\n== 5. 什么时候判定「压根没切出章结构」 ==");
 
 console.log(failed ? `\n${failed} 项失败` : "\n全部通过");
 process.exit(failed ? 1 : 0);
+
